@@ -9,3 +9,7 @@
 # Часть 2
 ## Задание 1
 ![](https://github.com/drozdovnikita/hw6/blob/master/question.png)
+## Задание 2
+Глагол "watch", как и "see" могут употрябляться со словома "people" или "face". А такие слова как "TV" или "film" чаще используются с глаголом watch, в то время как "nothing" или "reason" находятся в тандеме с see.
+![](https://github.com/drozdovnikita/hw6/blob/master/watch%20VS%20see.png)
+## Задание 3
