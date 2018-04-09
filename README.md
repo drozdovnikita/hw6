@@ -8,4 +8,4 @@
 ![](https://github.com/drozdovnikita/hw6/blob/master/apartment%20VS%20flat.png)
 # Часть 2
 ## Задание 1
-![](
+![](https://github.com/drozdovnikita/hw6/blob/master/question.png)
